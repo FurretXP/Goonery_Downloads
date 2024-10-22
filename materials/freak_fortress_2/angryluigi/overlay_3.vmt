@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+	$basetexture "freak_fortress_2/angryluigi/overlay_3"
+
+	$ignorez 1
+	$no_fullbright 1
+}

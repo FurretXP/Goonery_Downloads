@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "freak_fortress_2/sandwich/luigi/face"
+	"$bumpmap" 		"freak_fortress_2/sandwich/luigi/face_nrm"
+	"$color2"		"[1.7 1.3 1.3]"
+
+	"$phong" "1"
+	"$phongexponent" "4"
+	"$phongboost" ".1"	
+	"$phongfresnelranges"	"[.18 1 3]"							
+}

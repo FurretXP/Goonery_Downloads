@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "freak_fortress_2/sandwich/luigi/body"
+	"$bumpmap" 		"freak_fortress_2/sandwich/luigi/body_nrm"
+	"$envmapfresnel" "1" 
+	"$color2"		"[2.2 2.2 2.2]"
+
+	"$phong" "1"
+	"$phongexponent" "4"
+	"$phongboost" ".1"	
+	"$phongfresnelranges"	"[.18 1 3]"					
+}
